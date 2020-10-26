@@ -1,2 +1,2 @@
 # pikadu
-Учебный проект
+https://dannilburmatov.github.io/pikadu/
