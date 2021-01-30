@@ -9,3 +9,5 @@ https://dannilburmatov.github.io/pikadu/
 На разработку 2-ух страниц ушло 6 часов.
 
 Использовал Visual studio.
+
+https://burmatovs-page.ru/pikadu/
